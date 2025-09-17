@@ -45,6 +45,7 @@ This dashboard is built for:
 The **Mobile Sales Dashboard 2025** demonstrates how data visualization can bridge the gap between raw data and business intelligence. By delivering clear stories from numbers, it helps businesses unlock insights, identify growth opportunities, and make confident strategic decisions.
 
 ---
+https://github.com/RajRathore1/Mobile_Sales_Analysis_Dashboard/blob/main/Mobile%20Sales.png
 https://github.com/RajRathore1/Mobile_Sales_Analysis_Dashboard/blob/main/M2.png
 
 💡 *Feedback and collaboration are always welcome. Let’s build smarter solutions together!*
